@@ -73,4 +73,4 @@ Before you begin, ensure you have the following installed:
 ## License
 
 This project is licensed under the MIT License. [MIT](https://choosealicense.com/licenses/mit/)
-# TeachAssist
+
